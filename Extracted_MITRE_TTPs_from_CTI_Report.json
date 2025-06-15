@@ -1,0 +1,57 @@
+[
+  {
+    "Tactic":"Initial Access",
+    "Technique":"Valid Accounts",
+    "Supporting Sentence":"using valid credentials to achieve initial access to cloud environments"
+  },
+  {
+    "Tactic":"Persistence",
+    "Technique":"Abuse of Cloud Identity \/ Valid Accounts",
+    "Supporting Sentence":"maintain persistence at the identity level"
+  },
+  {
+    "Tactic":"Privilege Escalation",
+    "Technique":"Credential Access \/ Privilege Escalation via Identity",
+    "Supporting Sentence":"escalate privileges by obtaining access to additional identities"
+  },
+  {
+    "Tactic":"Reconnaissance",
+    "Technique":"Social Engineering",
+    "Supporting Sentence":"conducted sophisticated social engineering attacks to access victim accounts"
+  },
+  {
+    "Tactic":"Persistence",
+    "Technique":"Abuse of Cloud Resources",
+    "Supporting Sentence":"maintain persistence within targeted cloud environments"
+  },
+  {
+    "Tactic":"Credential Access",
+    "Technique":"Credential Dumping \/ Access Token Theft",
+    "Supporting Sentence":"obtain credentials"
+  },
+  {
+    "Tactic":"Lateral Movement",
+    "Technique":"Internal Spearphishing \/ Valid Accounts",
+    "Supporting Sentence":"move laterally"
+  },
+  {
+    "Tactic":"Exfiltration",
+    "Technique":"Data Staged \/ Exfiltration Over Web Service",
+    "Supporting Sentence":"exfiltrate data"
+  },
+  {
+    "Tactic":"Credential Access",
+    "Technique":"Steal or Forge Kerberos Tickets",
+    "Supporting Sentence":"stole Kerberos tickets"
+  },
+  {
+    "Tactic":"Credential Access",
+    "Technique":"Access Token Theft",
+    "Supporting Sentence":"stole session cookies and tokens"
+  },
+  {
+    "Tactic":"Credential Access",
+    "Technique":"Credentials in Files \/ Secrets Dumping",
+    "Supporting Sentence":"stole API keys, secrets"
+  }
+]
