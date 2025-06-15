@@ -1,0 +1,12 @@
+Tactic,Technique,Supporting Sentence
+Initial Access,Valid Accounts,using valid credentials to achieve initial access to cloud environments
+Persistence,Abuse of Cloud Identity / Valid Accounts,maintain persistence at the identity level
+Privilege Escalation,Credential Access / Privilege Escalation via Identity,escalate privileges by obtaining access to additional identities
+Reconnaissance,Social Engineering,conducted sophisticated social engineering attacks to access victim accounts
+Persistence,Abuse of Cloud Resources,maintain persistence within targeted cloud environments
+Credential Access,Credential Dumping / Access Token Theft,obtain credentials
+Lateral Movement,Internal Spearphishing / Valid Accounts,move laterally
+Exfiltration,Data Staged / Exfiltration Over Web Service,exfiltrate data
+Credential Access,Steal or Forge Kerberos Tickets,stole Kerberos tickets
+Credential Access,Access Token Theft,stole session cookies and tokens
+Credential Access,Credentials in Files / Secrets Dumping,"stole API keys, secrets"
